@@ -18,6 +18,12 @@
     [super viewDidLoad];
    
     NSLog(@"===AA===");
+    
+    NSLog(@"===开心===");
+    
+    NSLog(@"你个掉毛");
+    
+    NSLog(@"舍子一个安妮u");
 }
 
 
