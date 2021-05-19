@@ -1,18 +1,18 @@
 //
-//  BController.m
+//  AController.m
 //  TextDemo
 //
 //  Created by bing on 2017/5/25.
 //  Copyright © 2017年 Bing_John. All rights reserved.
 //
 
-#import "BController.h"
+#import "AController.h"
 
-@interface BController ()
+@interface AController ()
 
 @end
 
-@implementation BController
+@implementation AController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
