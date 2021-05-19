@@ -14,6 +14,7 @@
 		37C529F91ED6AC3C004A1D98 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37C529F81ED6AC3C004A1D98 /* Assets.xcassets */; };
 		37C529FC1ED6AC3C004A1D98 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37C529FA1ED6AC3C004A1D98 /* LaunchScreen.storyboard */; };
 		37C52A0B1ED6B0B3004A1D98 /* BController.m in Sources */ = {isa = PBXBuildFile; fileRef = 37C52A0A1ED6B0B3004A1D98 /* BController.m */; };
+		37C52A111ED6B97C004A1D98 /* AController.m in Sources */ = {isa = PBXBuildFile; fileRef = 37C52A101ED6B97C004A1D98 /* AController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		37C529FD1ED6AC3C004A1D98 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		37C52A091ED6B0B3004A1D98 /* BController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BController.h; sourceTree = "<group>"; };
 		37C52A0A1ED6B0B3004A1D98 /* BController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BController.m; sourceTree = "<group>"; };
+		37C52A0F1ED6B97C004A1D98 /* AController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AController.h; sourceTree = "<group>"; };
+		37C52A101ED6B97C004A1D98 /* AController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				37C529F31ED6AC3C004A1D98 /* ViewController.m */,
 				37C52A091ED6B0B3004A1D98 /* BController.h */,
 				37C52A0A1ED6B0B3004A1D98 /* BController.m */,
+				37C52A0F1ED6B97C004A1D98 /* AController.h */,
+				37C52A101ED6B97C004A1D98 /* AController.m */,
 				37C529F51ED6AC3C004A1D98 /* Main.storyboard */,
 				37C529F81ED6AC3C004A1D98 /* Assets.xcassets */,
 				37C529FA1ED6AC3C004A1D98 /* LaunchScreen.storyboard */,
@@ -159,6 +164,7 @@
 				37C529F41ED6AC3C004A1D98 /* ViewController.m in Sources */,
 				37C529F11ED6AC3C004A1D98 /* AppDelegate.m in Sources */,
 				37C52A0B1ED6B0B3004A1D98 /* BController.m in Sources */,
+				37C52A111ED6B97C004A1D98 /* AController.m in Sources */,
 				37C529EE1ED6AC3C004A1D98 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
