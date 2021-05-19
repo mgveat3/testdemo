@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
    
-    NSLog(@"==aaa===");
+    NSLog(@"====");
     
     NSLog(@"===bbb==");
     
