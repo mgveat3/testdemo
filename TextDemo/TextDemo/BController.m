@@ -1,27 +1,22 @@
 //
-//  AController.m
+//  BController.m
 //  TextDemo
 //
 //  Created by bing on 2017/5/25.
 //  Copyright © 2017年 Bing_John. All rights reserved.
 //
 
-#import "AController.h"
+#import "BController.h"
 
-@interface AController ()
+@interface BController ()
 
 @end
 
-@implementation AController
+@implementation BController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-}
-
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
 }
 
 /*
