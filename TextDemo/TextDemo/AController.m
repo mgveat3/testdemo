@@ -18,6 +18,8 @@
     [super viewDidLoad];
    
     NSLog(@"===AA===");
+    
+    NSLog(@"===开心===");
 }
 
 

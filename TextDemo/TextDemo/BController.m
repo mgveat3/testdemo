@@ -18,10 +18,6 @@
     [super viewDidLoad];
    
     NSLog(@"===bb==");
-    
-    NSLog(@"我是bb好开心");
-    
-    NSLog(@"设置一个按钮");
 }
 
 
