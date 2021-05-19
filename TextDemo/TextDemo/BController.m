@@ -18,6 +18,9 @@
     [super viewDidLoad];
    
     NSLog(@"===bb==");
+
+    
+    NSLog(@"===舍子一个label");
     
     NSLog(@"大约在此，谁敢动");
 }
