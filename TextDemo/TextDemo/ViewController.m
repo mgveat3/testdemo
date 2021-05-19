@@ -20,6 +20,8 @@
     NSLog(@"我是老大");
     
     NSLog(@"我是AA");
+    
+    NSLog(@"我是BB");
 }
 
 
