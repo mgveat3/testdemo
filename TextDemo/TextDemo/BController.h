@@ -1,5 +1,5 @@
 //
-//  AController.h
+//  BController.h
 //  TextDemo
 //
 //  Created by bing on 2017/5/25.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AController : UIViewController
+@interface BController : UIViewController
 
 @end
