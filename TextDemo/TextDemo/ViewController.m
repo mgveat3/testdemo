@@ -18,6 +18,8 @@
     [super viewDidLoad];
     
     NSLog(@"我是老大");
+    
+    NSLog(@"我是AA");
 }
 
 
