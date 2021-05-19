@@ -17,7 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
    
-
+    NSLog(@"==aaa===");
+    
+    NSLog(@"===bbb==");
     
     NSLog(@"大约在此，谁敢动");
 }
